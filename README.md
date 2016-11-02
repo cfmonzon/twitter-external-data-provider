@@ -15,3 +15,6 @@ You will find the instructions to create a twitter app here [here](https://dev.t
 * After install the module, you need to create a new twitter app.
 * Install the Twitter External Data Provider.
 * Create a new "Twitter Mount Point" with name without blank spaces.
+
+### CREDITS
+This module has been developed inspired in part by the code of Quentin MONMERT's (Strava external data provider).  For this reason, we would like to thank him.
